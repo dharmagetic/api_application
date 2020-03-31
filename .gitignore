@@ -85,4 +85,4 @@ ubuntu-xenial-16.04-cloudimg-console.log
 .vagrant/
 
 # DB
-.sqlite3
+db.sqlite3
